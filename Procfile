@@ -1,1 +1,1 @@
-web:gunicorn cvresume.wsgi
+web: gunicorn cvresume.wsgi
